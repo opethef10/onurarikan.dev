@@ -1,3 +1,6 @@
 .idea
 .qodo
 .env
+
+# Wrangler
+.wrangler/
